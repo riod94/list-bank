@@ -252,23 +252,23 @@
         "category": "regional"
     },
     {
-        "name": "Bank Sumbar",
+        "name": "Bank Nagari (Sumbar)",
         "code": "118",
         "contact": "150234",
         "link": "https:\/\/www.banknagari.co.id\/",
         "category": "regional"
     },
     {
-        "name": "Bank Kepri",
+        "name": "Bank BRKSyariah (Bank Riau Kepri)",
         "code": "119",
-        "contact": "0761-37050",
-        "link": "https:\/\/www.bankriaukepri.co.id\/",
+        "contact": "1500 470",
+        "link": "https:\/\/www.brksyariah.co.id",
         "category": "regional"
     },
     {
         "name": "Bank Sumsel and Babel",
         "code": "120",
-        "contact": "1500711",
+        "contact": "1500 711",
         "link": "https:\/\/www.banksumselbabel.com\/",
         "category": "regional"
     },
@@ -574,7 +574,7 @@
         "category": "private"
     },
     {
-        "name": "Bank Royal",
+        "name": "Bank BCA Digital (Bank Royal)",
         "code": "501",
         "contact": "021 62864472",
         "link": "https:\/\/www.royalbank.co.id\/",
@@ -609,10 +609,108 @@
         "category": "private"
     },
     {
-        "name": "Bank of Tokyo-Mutsubishi UFJ",
+        "name": "Bank MUFG",
         "code": "042",
-        "contact": "021 570 7809",
-        "link": "#",
+        "contact": "021 3049 9399",
+        "link": "https:\/\/www.mufg.co.id",
+        "category": "foreign"
+    },
+    {
+        "name": "Amar Bank",
+        "code": "531",
+        "contact": "031 9901 5959",
+        "link": "https:\/\/amarbank.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Bank Banten",
+        "code": "137",
+        "contact": "1500 410",
+        "link": "https:\/\/www.bankbanten.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank BPD Bali",
+        "code": "129",
+        "contact": "1500 844",
+        "link": "https:\/\/www.bpdbali.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank CCB Indonesia",
+        "code": "036",
+        "contact": "-",
+        "link": "https:\/\/idn.ccb.com",
         "category": "other"
+    },
+    {
+        "name": "Bank Kalbar",
+        "code": "123",
+        "contact": "0561 732148",
+        "link": "https:\/\/bankkalbar.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Kaltimtara",
+        "code": "124",
+        "contact": "1500 124",
+        "link": "https:\/\/bankaltimtara.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Kalteng",
+        "code": "125",
+        "contact": "1500 526",
+        "link": "https:\/\/bankkalteng.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Maluku Malut",
+        "code": "131",
+        "contact": "0807 1500 500",
+        "link": "https:\/\/www.bankmalukumalut.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Mayapada",
+        "code": "097",
+        "contact": "1500 029",
+        "link": "https:\/\/www.bankmayapada.com",
+        "category": "private"
+    },
+    {
+        "name": "Bank Murtiarta Sentosa",
+        "code": "548",
+        "contact": "1500 011",
+        "link": "https:\/\/bankmas.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Bank Papua",
+        "code": "132",
+        "contact": "1500 138",
+        "link": "https:\/\/www.bankpapua.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Sulsebar",
+        "code": "126",
+        "contact": "1500 855",
+        "link": "https:\/\/banksulselbar.co.id",
+        "category": "regional"
+    },
+    {
+        "name": "Bank Victoria Syariah",
+        "code": "405",
+        "contact": "021 5672 771",
+        "link": "https:\/\/bankvictoriasyariah.co.id",
+        "category": "private"
+    },
+    {
+        "name": "Prima Master Bank",
+        "code": "520",
+        "contact": "031 353 1253",
+        "link": "https:\/\/www.primamasterbank.co.id",
+        "category": "foreign"
     }
 ]
