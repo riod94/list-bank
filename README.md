@@ -6,6 +6,8 @@ Jumlah data bank saat ini berjumlah 102 bank, bisa di unduh dalam format json da
 
 Jika terdapat data bank yang keliru ataupun ada data bank baru yang belum ada bisa bantu untuk diupdate ya gaes..
 
+[Demo JSON Response](https://tebar.link/api/free/bank)
+
 ## Sumber
 
 -  https://www.atmbersama.com/banks
